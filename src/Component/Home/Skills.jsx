@@ -104,7 +104,7 @@ function Skills() {
         </div>),
         description: (
           <ul>
-            <li>Strong Knowladge of Wordpress.</li>
+            <li>Strong Knowledge of Wordpress.</li>
             <li>
               I can customise the frontend design using the Elementor, Divi
               Builder, WP Backary etc.
@@ -122,10 +122,10 @@ function Skills() {
         ),
         description: (
           <ul>
-            <li>Strong Knowladge of the E-Commerence Platform.</li>
+            <li>Strong Knowledge of the E-Commerence Platform.</li>
             <li>I can customise the theme depends on the requirements.</li>
             <li>Integrate the third party apps.</li>
-            <li> I've a good knowladge in the Shopify CLI</li>
+            <li> I've a good Knowledge in the Shopify CLI</li>
           </ul>
         ),
       },
